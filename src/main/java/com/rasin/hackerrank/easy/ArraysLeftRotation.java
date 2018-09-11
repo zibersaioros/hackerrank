@@ -9,6 +9,7 @@ import java.util.regex.*;
 
 
 public class ArraysLeftRotation {
+    // https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
