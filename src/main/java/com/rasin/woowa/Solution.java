@@ -1,4 +1,4 @@
-package com.rasin.hackerrank.com.rasin.woowa;
+package com.rasin.woowa;
 
 
 import java.time.LocalDateTime;

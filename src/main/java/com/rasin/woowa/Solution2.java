@@ -1,6 +1,5 @@
-package com.rasin.hackerrank.com.rasin.woowa;
+package com.rasin.woowa;
 
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 

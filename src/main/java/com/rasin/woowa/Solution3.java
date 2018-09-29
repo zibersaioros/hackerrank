@@ -1,4 +1,4 @@
-package com.rasin.hackerrank.com.rasin.woowa;
+package com.rasin.woowa;
 
 public class Solution3 {
     public static int solution(int[] A, int X) {
